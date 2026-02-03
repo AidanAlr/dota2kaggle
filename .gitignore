@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large files — download separately, see README)
+data/*.CSV
+data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
